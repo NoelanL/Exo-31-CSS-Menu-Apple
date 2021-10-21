@@ -29,7 +29,6 @@ ul
     background-color: #323233;
     margin-left: 0;
     max-width: 980px;
-    padding: 0;
     position: relative;
     padding-left: max(22px,env(safe-area-inset-left));
     padding-right: max(22px,env(safe-area-inset-right));
