@@ -1,0 +1,45 @@
+body
+{
+    margin: 0;
+}
+
+.header
+{
+    margin: 0 auto;
+    max-width: 100%;
+    max-height: 44px;
+    padding: 0 22px;
+    position: relative;
+    color: #d6d6d6;
+    list-style: none;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    background: rgba(0,0,0,0.8);
+;
+}
+
+i
+{
+    font-size: 18px;
+}
+
+ul
+{
+    background-color: #323233;
+    margin-left: 0;
+    max-width: 980px;
+    padding: 0;
+    position: relative;
+    padding-left: max(22px,env(safe-area-inset-left));
+    padding-right: max(22px,env(safe-area-inset-right));
+    color: #d6d6d6;
+    list-style: none;
+    display: inline-block;
+}
+
+li
+{
+    margin: 0;
+    padding: 0;
+}
